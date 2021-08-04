@@ -2,7 +2,7 @@
 
 Projeto NLW05 - Trilha Node.js
 
-Aplicativo de Chat entre Cliente e Suporte Técnico.
+Aplicativo de Chat em tempo real entre Cliente e Suporte Técnico.
 
 
 
