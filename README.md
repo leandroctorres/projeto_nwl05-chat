@@ -8,5 +8,6 @@ Aplicativo de Chat em tempo real entre Cliente e Suporte Técnico.
 
 ## Image: 
 
-![plot](.\images\nlw05-chat.jpg)
 
+
+<img src=".\images\nlw05-chat.jpg"  />
