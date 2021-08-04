@@ -8,4 +8,5 @@ Aplicativo de Chat entre Cliente e Suporte Técnico.
 
 ## Image: 
 
-![](C:\Users\americo\Desktop\nlw05-chat.jpg)
+![plot](.\images\nlw05-chat.jpg)
+
